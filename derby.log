@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+Mon Jan 03 09:13:01 PST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-20ee-1635-000002513240 
+on database directory memory:/Users/kebromwoldegebriel/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/bookFace-project/e80f691c-a7dc-4e1b-a195-0dae879ef29c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+Loaded from file:/Users/kebromwoldegebriel/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17+35
+user.dir=/Users/kebromwoldegebriel/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/bookFace-project
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 03 09:13:10 PST 2022:
+Shutting down instance a816c00e-017e-20ee-1635-000002513240 on database directory memory:/Users/kebromwoldegebriel/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/bookFace-project/e80f691c-a7dc-4e1b-a195-0dae879ef29c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+----------------------------------------------------------------
+Mon Jan 03 09:13:11 PST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b5a2c0d3-017e-20ee-1635-000002513240 
+on database directory memory:/Users/kebromwoldegebriel/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/bookFace-project/e387d3cf-fcdf-4fd6-8a3b-4a7fc5912527 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+Loaded from file:/Users/kebromwoldegebriel/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17+35
+user.dir=/Users/kebromwoldegebriel/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/bookFace-project
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 03 09:19:27 PST 2022:
+Shutting down instance b5a2c0d3-017e-20ee-1635-000002513240 on database directory memory:/Users/kebromwoldegebriel/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/bookFace-project/e387d3cf-fcdf-4fd6-8a3b-4a7fc5912527 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 

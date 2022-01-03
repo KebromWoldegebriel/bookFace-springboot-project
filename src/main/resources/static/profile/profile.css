@@ -1,0 +1,34 @@
+.profile-top {
+    height:80vh;
+    background-color: lightgray;
+    
+} 
+body  {
+    font-family: Monospace;
+}
+
+.container {
+    padding-top: 5%;
+}
+
+#profile-pic {
+    display: block;
+    height: 300px;
+    width: auto;
+}
+
+/* I included this media query becuse for screen size below 800px the picture was postion to the right with a gap on the left */
+@media only screen and (max-width: 800px) {
+    .profile-top {
+        height:auto;
+        
+    } 
+   
+    #profile-pic {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    
+}
+

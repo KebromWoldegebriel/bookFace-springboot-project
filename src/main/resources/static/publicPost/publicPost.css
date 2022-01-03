@@ -1,0 +1,60 @@
+.publicPostTop-top {
+    height:80vh;
+    background-color: lightgray;
+    overflow-y:auto
+    
+} 
+body  {
+    font-family: Monospace;
+}
+
+.container {
+    padding-top: 5%;
+}
+
+.form-group {
+	display: flex;
+}
+.btn {
+	align-self:center;
+	margin-left: 5px;
+}
+
+label {
+	align-self:center;
+		margin-right: 5px;
+
+}
+
+.post-container {
+	border: 1px solid Grey;
+	margin-bottom: 5px;
+	padding: 5px;
+	
+}
+
+.postDetails {
+	display:flex;
+
+}
+
+#post-pic {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	border-radius: 20px;
+	margin-right: 5px;
+
+}
+
+
+
+
+@media only screen and (max-width: 800px) {
+    .publicPostTop-top {
+        height:auto;
+        overflow-y:auto
+        
+    } 
+
+}

@@ -1,0 +1,50 @@
+.members-top {
+    height:80vh;
+    background-color: lightgray;
+    overflow-y:auto
+    
+} 
+body  {
+    font-family: Monospace;
+}
+
+.container {
+    padding-top: 5%;
+}
+
+.user-pic{
+    display: block;
+    height: 100px;
+    width: 100px;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+h4 {
+    padding-top: 2%;
+}
+
+@media only screen and (max-width: 600px) {
+    .members-top {
+        height:auto;
+        overflow-y:auto
+        
+    } 
+    .user-pic{
+        display: block;
+        width: 100%;
+        height: auto;
+        padding-bottom: 2%;
+        padding-top: 2%;
+    }
+
+    
+    .sndMessage-col {
+            display: flex;
+            justify-content: flex-end;
+            padding-top: 1%;    
+    }   
+   
+   
+    
+}
+
